@@ -1,0 +1,25 @@
+# Core dependencies
+langchain==0.1.0
+langchain-community==0.0.13
+langchain-google-genai==0.0.11
+google-generativeai==0.4.1  # Fixed version for compatibility
+
+# Document processing
+python-docx==0.8.11
+docx2txt==0.8
+
+# Data processing
+pandas==2.2.0
+openpyxl==3.1.2
+
+# Image processing
+pillow==10.2.0
+
+# Web framework
+streamlit==1.31.0
+
+# Utilities
+python-dotenv==1.0.1
+
+# JIRA integration
+jira==3.8.0 
